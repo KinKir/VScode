@@ -112,8 +112,7 @@ for alien in aliens:
     print(alien)
 
 # 6.4.1字典列表
-alien_0 = {'color': 'green', 'points': 5}
-print("alien"+ 'alien_0')
+
 
 # 6.4.2在字典中存储列表
 
