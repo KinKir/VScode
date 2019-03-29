@@ -1,0 +1,10 @@
+TestStr = "O一二三四五六七八九十"
+print(TestStr[3])
+print(TestStr[1:])
+print(TestStr[:7])
+print(TestStr[1:2:9])
+print(TestStr[::-1])
+print("这里有个双引号(\")")
+"{0:=^20}".format("PYTHON")
+"{0:,.2f}".format(123456.789)
+"{0:b},{0:c},{0:d},{0:o},{0:x},{0:X}".format(425)
